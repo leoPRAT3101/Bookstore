@@ -1,0 +1,110 @@
+body{
+    background-color:#86c1ff;
+    color: rgb(0, 0, 0);
+}
+
+body background{
+    opacity: -1;
+}
+
+.d1{
+    display:block ;
+    width: 25rem;
+    background-color: rgb(75, 74, 74);
+}
+
+.collapse{
+    margin-left: 2%;
+}
+
+.tbl{
+    border-style: hidden;  
+}
+
+tr{
+    border: 2px solid rgb(0, 0, 0);
+   border-style: groove;   
+}
+
+td{
+    image-orientation:flip;
+}
+
+.image{
+    margin-left: 5%;
+}
+
+.info{
+    color: black;
+    background-image: url("bg\ books6.webp");
+    width: 1300px;
+    height: 500px;  
+}
+
+/* footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 50px 0;
+    text-align: center;
+  }
+  
+  footer h3 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  footer p {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .social-icons li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .social-icons li a {
+    color: #fff;
+    font-size: 24px;
+  }
+  
+  .social-icons li a:hover {
+    color: #f00;
+    text-decoration: none;
+  }
+  .col-md-6{
+    text-align: center;
+  }
+.tbl{
+  border: 2px solid black;
+}
+
+#footer{
+ margin-top: 27px;
+ padding-top: 50px;
+ width: 1300px;
+}
+
+.btn{
+  margin-top: 10px;
+}
+
+.img{
+  margin-right: 20px;
+}
+
+.navbar{
+  width: 1300px;
+}
+
+#followUs:hover{
+  cursor: pointer;
+  color: rgb(193, 193, 193);
+}
+
+#contactUs:hover{
+  cursor: pointer;
+  color: rgb(193, 193, 193);
+
+}
